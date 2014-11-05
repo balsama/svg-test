@@ -1,3 +1,4 @@
-# Boston Interactive Boilerplate
+# Proof of concept using snap to generate and animate some SVGs
 
-Who wants to write this!?
+Demo: balsama.github.io/svg-test
+
