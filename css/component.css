@@ -1,0 +1,25 @@
+/**
+ * @file component.scss
+ *   This is your main style sheet. It should be readable by a human and
+ *   heavily commented. Each component and its elements and modifiers should be
+ *   logically grouped and seperated by a comment describing the component, how
+ *   it interacts with other components, and how it can be modified.
+ */
+.container-svg {
+  position: relative; }
+  .container-svg svg {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1; }
+  .container-svg .container-svg--contents {
+    position: relative;
+    z-index: 2; }
+
+.lp-section {
+  padding-top: 60px;
+  padding-bottom: 60px; }
+
+/*# sourceMappingURL=component.css.map */

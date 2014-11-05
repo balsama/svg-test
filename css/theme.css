@@ -1,0 +1,13 @@
+/**
+ * @file theme.scss
+ *   Theme rules are similar to state rules in that they describe how modules
+ *   or layouts might look. The theme styleshoeet can also contain components
+ *   that are truely not reusable, but it should be used extremely sparingly in
+ *   this regard. If you find that you have more than two or three components
+ *   that fit into this category, you might want to reevaluate with the design
+ *   and UI teams.
+ */
+.bgc__gray-light {
+  background-color: #efefef; }
+
+/*# sourceMappingURL=theme.css.map */

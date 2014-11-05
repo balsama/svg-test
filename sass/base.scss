@@ -1,0 +1,14 @@
+/**
+ * @file base.scss
+ *   The Base stylesheet contains almost exclusively single element selectors;
+ *   but it could include attribute selectors, pseudo-class selectors, child
+ *   selectors or sibling selectors. Essentially, a base style says that
+ *   wherever this element is on the page, it should look like this.
+ *
+ *   Base can also be used for basic styles that don't map well to HTML
+ *   elements. For example, you might have background color classes in this
+ *   file.
+ */
+@import "vars";
+@import "mixins";
+@import "compass/_compass.scss";
